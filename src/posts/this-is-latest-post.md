@@ -5,6 +5,7 @@ description: Bring to the table win-win survival strategies to ensure proactive
   evolved from generation X is on the runway heading towards a streamlined cloud
   solution.
 author: Surjith S M
+hero-image: /static/img/npdc-hero.png
 date: 2020-09-23T15:13:13.021Z
 tags: second-tag
 ---
